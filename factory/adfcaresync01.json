@@ -1,0 +1,15 @@
+{
+	"name": "adfcaresync01",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "59fb0f1d-2459-42f2-b075-eeb1839b412b",
+		"tenantId": "09975d9b-130d-4c7f-aa1a-f3458c397935"
+	}
+}
